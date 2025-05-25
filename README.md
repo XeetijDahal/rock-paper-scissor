@@ -18,24 +18,28 @@ Uses emojis instead of images, features sound effects, a 5-round match system, s
 
 ## Demo
 
-![Rock Paper Scissors Demo GIF or Screenshot](images/rps.png)
+![Rock Paper Scissors](images/rps.png)
 
 ---
 
 How to Play
-Click one of the emoji buttons (✂️ Rock, 🪨 Paper, 📄 Scissors) to make your choice.
 
-The computer randomly selects its choice.
++ Click one of the emoji buttons (✂️ Rock, 🪨 Paper, 📄 Scissors) to make your choice.
 
-The winner of the round is shown with updated scores.
++ The computer randomly selects its choice.
 
-Play 5 rounds to complete the match.
++ The winner of the round is shown with updated scores.
 
-Use the Play Again button to reset and start a new match.
++ Play 5 rounds to complete the match.
 
-Technologies Used
-HTML5
++ Use the Play Again button to reset and start a new match.
 
-CSS3
+  ---
 
-Vanilla JavaScript
+## Technologies Used
+
+* HTML5
+
+* CSS3
+
+* Vanilla JavaScript
