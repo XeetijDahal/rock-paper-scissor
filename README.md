@@ -18,7 +18,7 @@ Uses emojis instead of images, features sound effects, a 5-round match system, s
 
 ## Demo
 
-![Rock Paper Scissors](images/rps.png)
+| ![Rock Paper Scissors](images/rps.png)|
 
 ---
 
