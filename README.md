@@ -22,7 +22,7 @@ Uses emojis instead of images, features sound effects, a 5-round match system, s
 
 ---
 
-How to Play
+## How to Play
 
 + Click one of the emoji buttons (✂️ Rock, 🪨 Paper, 📄 Scissors) to make your choice.
 
